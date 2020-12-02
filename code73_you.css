@@ -1,0 +1,25 @@
+*{
+    color: white;
+}
+body{
+    margin: 0;
+    background-color: whitesmoke;
+}
+.table-container{
+    width: fit-content;
+    margin: 30px auto;
+    padding: 15px;
+    background-color: rgb(111, 149, 88);
+}
+.table-container > h1{
+    color: rgb(219, 172, 231);
+    text-decoration: underline;
+}
+.table-container > .table-div{
+    width: fit-content;
+    margin: auto;
+}
+.table-container > .table-div > .text{
+    text-align: center;
+    font-size: larger;
+}
